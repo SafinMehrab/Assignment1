@@ -1,0 +1,217 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    background-color: black;
+  
+}
+
+a{
+
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+   
+}
+.container_head{
+
+    display: flex;
+}
+.nav_Div1{
+
+    width: 30%;
+    padding-top: 40px; 
+    padding-left: 75px;
+
+}
+.nav_Div2{
+
+    width: 70%;
+    padding-top: 5px;
+    
+}
+.nav_Bar{
+
+    display: flex;
+    margin: 0%;
+    padding-top: 20px;
+}
+
+.nav_Bar li{
+    margin: 0%;
+    padding: 30px;
+    font-weight: 700;
+    
+}
+
+.nav_Bar a{
+
+    color:white;
+}
+#color_change{
+
+    color: rgb(253, 108, 55);
+}
+
+#logo{
+    margin-top: 0%;
+    list-style-type: none;
+    font-size: 35px;
+    color: white;
+    font-weight: 900;    
+}
+span{
+
+    color: rgb(253, 121, 72);
+}
+.nav_Div{
+
+    background-color:black;
+    padding: 0%;
+    margin: 0%;
+}
+header{
+
+    margin: 0%;
+    padding: 0%;
+}
+
+.link_btn{
+     
+    text-decoration: none;
+    background-image: linear-gradient(to right, rgb(252, 190, 74),rgb(240, 96, 71));
+    padding: 15px 40px;
+    border-radius: 25px;
+    color: white;
+    font-weight: 700;
+    box-shadow: 5px 5px 5px rgb(41, 40, 39);
+
+}
+
+.container{
+    
+    display: flex;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    background-color: black;
+}
+.container_half{
+     
+    width: 50%;
+    padding: 5%;
+    
+}
+
+h1{
+
+    font-size: 50px;
+    color:white;
+
+}
+p{
+    font-size: 20px;
+    font-weight: 500s;
+    margin-bottom: 50px;
+    padding-bottom: 20px;
+    color: rgba(240, 231, 231, 0.795);
+}
+h2{
+
+    color: white;
+    font-size: 40px;
+
+}
+
+#Person{
+
+    width: 45%;
+    padding-left: 200px;
+}
+
+#center_text{
+
+    text-align: center;
+}
+
+.container_half1{
+    
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-top: 20px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.container_food{
+    margin: 0%;
+    margin: 0%;
+    padding-left:5%;
+    padding-top: 30px;
+    display: flex;
+    background-color: black;
+}
+
+.container_third img{
+
+    width: 80%;
+    padding: 0%;
+    border: 0ch;
+    border-radius: 25px;
+    
+}
+
+h3{
+    font-size: 28px;
+    margin-top: 5%;
+    padding: 5px;
+    color: white;
+   
+}
+.container_third{
+
+    background-color: black;
+    width: 50%;
+    padding-left: 15px;
+}
+
+#recipe_description{
+
+    padding: 5px;
+
+}
+.last_section{
+
+    background-color: black;
+    margin: 0%;
+    display: flex;
+    padding-left: 250px;
+}
+.last_div{
+
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 80px;
+    padding-left: 50px;
+    padding-right: 70px;
+    padding-bottom: 20px;
+}
+
+.foot{
+
+    background-color: black;
+    margin-bottom: 0%;
+}
+.foot_div{
+
+    background-color: black;
+    padding-top: 7%;
+    margin-bottom: 0%;
+    padding-bottom: 2%;
+    text-align: center;
+}
+small{
+
+    color: rgba(240, 231, 231, 0.795);
+
+}
